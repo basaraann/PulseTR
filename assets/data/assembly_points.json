@@ -1,0 +1,182 @@
+[
+  {
+    "id": "34-01",
+    "name": "Maçka Demokrasi Parkı",
+    "city": "İstanbul",
+    "district": "Şişli",
+    "description": "Geniş açık alan, helikopter inişine uygun.",
+    "latitude": 41.0456,
+    "longitude": 28.9933
+  },
+  {
+    "id": "34-02",
+    "name": "Göztepe 60. Yıl Parkı",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "description": "Anadolu yakası merkezi toplanma alanı.",
+    "latitude": 40.9768,
+    "longitude": 29.0607
+  },
+  {
+    "id": "34-03",
+    "name": "Yenikapı Etkinlik Alanı",
+    "city": "İstanbul",
+    "district": "Fatih",
+    "description": "Deniz kenarı, çok geniş lojistik alan.",
+    "latitude": 41.0025,
+    "longitude": 28.9507
+  },
+  {
+    "id": "34-04",
+    "name": "Yıldız Parkı",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "description": "Beşiktaş bölgesi için güvenli yeşil alan.",
+    "latitude": 41.0489,
+    "longitude": 29.0175
+  },
+  {
+    "id": "34-05",
+    "name": "Bakırköy Botanik Parkı",
+    "city": "İstanbul",
+    "district": "Bakırköy",
+    "description": "E-5 kenarı, ulaşımı kolay geniş park.",
+    "latitude": 40.9982,
+    "longitude": 28.8870
+  },
+  {
+    "id": "34-06",
+    "name": "Maltepe Sahil Parkı",
+    "city": "İstanbul",
+    "district": "Maltepe",
+    "description": "Avrupa'nın en büyük yaşam parklarından biri.",
+    "latitude": 40.9148,
+    "longitude": 29.1550
+  },
+  {
+    "id": "06-01",
+    "name": "Güvenpark",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "description": "Kızılay meydanı yanı.",
+    "latitude": 39.9198,
+    "longitude": 32.8543
+  },
+  {
+    "id": "06-02",
+    "name": "Seğmenler Parkı",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "description": "Geniş yamaç parkı.",
+    "latitude": 39.8942,
+    "longitude": 32.8624
+  },
+  {
+    "id": "06-03",
+    "name": "Anıtpark",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "description": "Anıtkabir yanı geniş alan.",
+    "latitude": 39.9250,
+    "longitude": 32.8369
+  },
+  {
+    "id": "06-04",
+    "name": "Göksu Parkı",
+    "city": "Ankara",
+    "district": "Etimesgut",
+    "description": "Eryaman bölgesi toplanma alanı.",
+    "latitude": 39.9725,
+    "longitude": 32.6417
+  },
+  {
+    "id": "35-01",
+    "name": "Kültürpark (Fuar)",
+    "city": "İzmir",
+    "district": "Konak",
+    "description": "İzmir'in en büyük toplanma ve lojistik merkezi.",
+    "latitude": 38.4285,
+    "longitude": 27.1432
+  },
+  {
+    "id": "35-02",
+    "name": "Gündoğdu Meydanı",
+    "city": "İzmir",
+    "district": "Konak",
+    "description": "Kordon boyu, açık alan.",
+    "latitude": 38.4372,
+    "longitude": 27.1368
+  },
+  {
+    "id": "35-03",
+    "name": "Hasanağa Bahçesi",
+    "city": "İzmir",
+    "district": "Buca",
+    "description": "Buca halkı için ana toplanma noktası.",
+    "latitude": 38.3842,
+    "longitude": 27.1685
+  },
+  {
+    "id": "35-04",
+    "name": "Aşık Veysel Rekreasyon Alanı",
+    "city": "İzmir",
+    "district": "Bornova",
+    "description": "Bornova bölgesi, buz pisti alanı.",
+    "latitude": 38.4556,
+    "longitude": 27.2023
+  },
+  {
+    "id": "16-01",
+    "name": "Merinos Parkı",
+    "city": "Bursa",
+    "district": "Osmangazi",
+    "description": "Bursa merkez afet koordinasyon noktası.",
+    "latitude": 40.1936,
+    "longitude": 29.0567
+  },
+  {
+    "id": "16-02",
+    "name": "Hüdavendigar Kent Parkı",
+    "city": "Bursa",
+    "district": "Osmangazi",
+    "description": "Nilüfer çayı kenarı geniş park.",
+    "latitude": 40.1983,
+    "longitude": 29.0234
+  },
+  {
+    "id": "07-01",
+    "name": "Konyaaltı Kent Meydanı",
+    "city": "Antalya",
+    "district": "Konyaaltı",
+    "description": "Sahil şeridi güvenli alan.",
+    "latitude": 36.8631,
+    "longitude": 30.6433
+  },
+  {
+    "id": "07-02",
+    "name": "Karaalioğlu Parkı",
+    "city": "Antalya",
+    "district": "Muratpaşa",
+    "description": "Falezler üzeri geniş park.",
+    "latitude": 36.8812,
+    "longitude": 30.7058
+  },
+  {
+    "id": "01-01",
+    "name": "Merkez Park",
+    "city": "Adana",
+    "district": "Seyhan",
+    "description": "Seyhan nehri kenarı, Türkiye'nin en büyük parklarından.",
+    "latitude": 36.9912,
+    "longitude": 35.3308
+  },
+  {
+    "id": "27-01",
+    "name": "100. Yıl Atatürk Kültür Parkı",
+    "city": "Gaziantep",
+    "district": "Şahinbey",
+    "description": "Şehrin merkezinde çok geniş yeşil bant.",
+    "latitude": 37.0628,
+    "longitude": 37.3714
+  }
+]
